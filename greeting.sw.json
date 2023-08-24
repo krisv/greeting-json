@@ -34,7 +34,7 @@
       "name": "GreetInEnglish",
       "type": "inject",
       "data": {
-        "greeting": "Hello from JSON Workflow, "
+        "greeting": "Hello from JSON Workflow, 2"
       },
       "transition": "GreetPerson"
     },
